@@ -1,7 +1,7 @@
 import React from "react";
 import './App.css';
 import Navbar from "./components/Navbar";
-import FirstSection from "./components/firstSection";
+import Home from "./components/pages/Home";
 import {BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 
@@ -11,9 +11,8 @@ function App() {
     <>
     <Router>
       <Navbar />
-       <FirstSection />
        <Switch>
-         <Route path="/" exact />
+        <Route path='/' exact component={Home} />
        </Switch>
       </Router>
     </>
