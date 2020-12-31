@@ -17,7 +17,7 @@ function Cards() {
                     />
 
                    <Carditem 
-                    src="images/ppIsland.jpg" 
+                    src="images/yellow.png" 
                     text="Explore my Adventure kytfitftcktckutfk8yogu;ohpn9unofc6rcu6rcuj uhbiu"
                     label="Adventure"
                     path="/articles"
@@ -49,6 +49,33 @@ function Cards() {
                     />   
 
                 </ul>
+
+                <ul className="cards__items">
+
+                   <Carditem 
+                    src="images/utah2.jpg" 
+                    text="Explore my Adventure kytfitftcktckutfk8yogu;ohpn9unofc6rcu6rcuj uhbiu"
+                    label="Adventure"
+                    path="/articles"
+                    />   
+
+                    
+                   <Carditem 
+                    src="images/basslake.jpg" 
+                    text="Explore my Adventure kytfitftcktckutfk8yogu;ohpn9unofc6rcu6rcuj uhbiu"
+                    label="Adventure"
+                    path="/articles"
+                    />   
+
+                   <Carditem 
+                    src="images/catalina1.jpg" 
+                    text="Explore my Adventure kytfitftcktckutfk8yogu;ohpn9unofc6rcu6rcuj uhbiu"
+                    label="Adventure"
+                    path="/articles"
+                    />   
+
+                </ul>
+
 
              </div>
             </div>

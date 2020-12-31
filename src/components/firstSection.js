@@ -1,5 +1,5 @@
 import React from "react";
-import video from "../videos/video-1.mp4";
+import video from "../videos-img/video-1.mp4";
 import {Button} from "../components/Button";
 import "../App.css";
 import "../styles/firstSection.css";
