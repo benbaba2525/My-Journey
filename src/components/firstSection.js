@@ -1,10 +1,10 @@
 import React from "react";
 import video from "../videos-img/video-1.mp4";
-import {Button} from "../components/Button";
+import {Button} from "./Button";
 import "../App.css";
-import "../styles/firstSection.css";
+import "../styles/FirstSection.css";
 
-function firstSection() {
+function FirstSection() {
     return (
         <div className= "first-container">
             <video src={video} autoPlay loop muted/>
@@ -25,4 +25,4 @@ function firstSection() {
     )
 }
 
-export default firstSection
+export default FirstSection
