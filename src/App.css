@@ -26,12 +26,12 @@
 }
 
 .articles {
-  /* background-image: url('./videos/yellow.png');  */
+  background-image: url('./videos-img/pp.jpg'); 
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
-  color: #fff;
-  font-size: 100px;
+  color: black;
+  font-size: 70px;
 }
 
 .sign-up {

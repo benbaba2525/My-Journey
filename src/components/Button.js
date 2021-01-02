@@ -16,7 +16,7 @@ export const Button = ({
     const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
     return (
-        <Link to="sign-up" className="btn-moblie">
+        <Link to="about" className="btn-moblie">
             <button className= {`btn ${checkButtonStyle} ${checkButtonSize}`}
             onClick={onClick}
             type={type}
