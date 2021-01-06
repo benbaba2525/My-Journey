@@ -1,6 +1,7 @@
 import React from 'react';
 import "../../App.css";
-//import { Container } from 'react-bootstrap';
+import Carditem from '../../components/CardItem';
+import "../../styles/Cards.css";
 import Footer from '../Footer';
 
 export default function About() {
@@ -17,7 +18,18 @@ export default function About() {
              <p className="travelDesc">
              I think travel makes everybody a more awesome person. We end our travels way better off than when we started. I’m not saying this to be conceited or egotistical; I’m saying it because I believe that travel is something that makes you not only a better human being but a way cooler one too. The kind of person people gravitate toward and want to be around.
              </p>
-    </div>
+
+             </div>
+             <ul className="cards__items">
+                    
+            <img src="images/joshuatree4.jpg" className="imgAbout"></img>
+           
+                    
+                </ul>
+
+               
+
+
     </div>
 
     <Footer />
