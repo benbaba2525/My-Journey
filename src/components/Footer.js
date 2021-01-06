@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Footer.css';
-import { Button } from './Button';
+
 
 function footer() {
     return (
@@ -16,7 +16,8 @@ function footer() {
               <li><a className="portfolio" href="https://www.kanyarut.me/"><i class="fas fa-link"></i></a></li>   
             </ul>
 
-            <div className='subscribe-form'>
+           
+          <div className='subscribe-form'>
           <form action="mailto:benbaba2525@gmail.com" method="post" enctype="text/plain">
             <input
               className='footer-input'

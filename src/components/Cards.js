@@ -11,7 +11,7 @@ function Cards() {
                 <ul className="cards__items">
                     <Carditem 
                     src="images/jamesbondIsland.jpg" 
-                    text="Travel through the James Bond Island 🌴 🌊 "
+                    text="Travel through the James Bond Island, Thailand 🌴 🌊 "
                     label="Adventure"
                     path="/articles"
                     />
@@ -28,7 +28,7 @@ function Cards() {
 
                    <Carditem 
                     src="images/utah.jpg" 
-                    text="Travel through Arches Nation Park Moab UT"
+                    text="Travel through Arches Nation Park Moab, Utah"
                     label="Adventure"
                     path="/articles"
                     />   
@@ -36,14 +36,14 @@ function Cards() {
                     
                    <Carditem 
                     src="images/jashuatree.jpg" 
-                    text="Explore my Adventure Keys View, Joshua Tree National Park."
+                    text="Travel through Keys View, Joshua Tree National Park, California."
                     label="Adventure"
                     path="/articles"
                     />   
 
                    <Carditem 
                     src="images/diamondHead.jpg" 
-                    text="Travel through Diamond Head Crater Trail"
+                    text="Travel through Diamond Head Crater Trail, Hawii"
                     label="Adventure"
                     path="/articles"
                     />   
@@ -54,7 +54,7 @@ function Cards() {
 
                    <Carditem 
                     src="images/utah2.jpg" 
-                    text="Travel through Arches Nation Park Moab UT"
+                    text="Travel through Arches Nation Park Moab, Utah"
                     label="Adventure"
                     path="/articles"
                     />   
@@ -69,7 +69,7 @@ function Cards() {
 
                    <Carditem 
                     src="images/catalina1.jpg" 
-                    text="Travel through Catalina Island"
+                    text="Travel through Catalina Island, California"
                     label="Adventure"
                     path="/articles"
                     />   
@@ -80,7 +80,7 @@ function Cards() {
 
                    <Carditem 
                     src="images/punga.jpg" 
-                    text="Travel through Phang-nga Island"
+                    text="Travel through Phang-nga Island, Thailand"
                     label="Adventure"
                     path="/articles"
                     />   
@@ -88,16 +88,12 @@ function Cards() {
                     
                    <Carditem 
                     src="images/ppIsland2.jpg" 
-                    text="Travel through Phi Phi Island"
+                    text="Travel through Phi Phi Island, Thailand"
                     label="Adventure"
                     path="/articles"
                     />   
 
-                   
-
                 </ul>
-
-
              </div>
             </div>
         </div>
