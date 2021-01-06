@@ -20,15 +20,12 @@ export default function About() {
              </p>
 
              </div>
-             <ul className="cards__items">
+             <div className="imgBox">
                     
-            <img src="images/joshuatree4.jpg" className="imgAbout"></img>
-           
-                    
-                </ul>
-
-               
-
+          
+            <img src="images/frankinCanyon.jpg" className="imgAbout"></img>
+             
+                </div>
 
     </div>
 
