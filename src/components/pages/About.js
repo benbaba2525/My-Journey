@@ -1,6 +1,5 @@
 import React from 'react';
 import "../../App.css";
-import Carditem from '../../components/CardItem';
 import "../../styles/Cards.css";
 import Footer from '../Footer';
 
