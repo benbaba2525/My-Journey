@@ -13,6 +13,8 @@ export default function Articles() {
      <div className="cards__wrapper">
               <h1 className="aboutTrvelling">My Top 5 Favorite Places</h1>
               <p className="travelDesc"> 
+              The world is filled with such a wide variety of wonderful destinations and beautiful places to visit, 
+              it can be quite difficult to compile a list of the best ones.
              </p>
             <br />
              
