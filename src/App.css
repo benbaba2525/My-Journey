@@ -44,7 +44,28 @@
 
 }
 
+.travelDescSec{
+  font-family:  sans-serif;
+  font-size: 18px;
+  padding: 10px;
+}
+
 .imgBox{
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
+  margin-top: 50px;
 }
+
+.imgAbout{
+  margin-bottom: 50px;
+}
+
+@media screen and (max-width: 575px) {
+
+  .imgAbout{
+    width: 100%;
+  }
+}
+
+
+
