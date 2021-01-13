@@ -22,8 +22,8 @@ export default function Articles() {
 
              </div>
 
-               <div className="cards__wrapper">
-            
+               
+             <div className="imgBox">
                 
                <img src="images/diamondHead.jpg" className="imgAbout"></img>
                 <h2>Diamond Head, Hawii</h2>
