@@ -14,6 +14,6 @@ app.get('/ping', function (req, res) {
 app.get('*', function (req, res) {
   res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
-app.listen(port, () => {
-    console.log(`🌎 ==> API server now on port ${port}!`);
-  });
+app.listen(port ,function(){
+  console.log("up and running on port "+port);
+});
