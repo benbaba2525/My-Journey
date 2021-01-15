@@ -94,10 +94,10 @@ function Cards() {
                     />   
 
                 </ul>
-             </div>
+              </div>
             </div>
         </div>
     )
-}
+};
 
 export default Cards
